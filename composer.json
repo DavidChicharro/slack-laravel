@@ -40,6 +40,11 @@
             "Nexy\\Slack\\": "src/"
         }
     },
+    "alias": {
+        "branch-alias": {
+            "dev-dev": "1.0.x-dev"
+        }
+    },
     "config": {
         "sort-packages": true,
         "allow-plugins": {
